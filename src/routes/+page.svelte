@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
+<h1>Damien giraudet</h1>
+<h2>Formateur</h2>
+<h4>Ami de Julien et Pierre-antoine</h4>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
